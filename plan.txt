@@ -1,0 +1,12 @@
+Stwórz tablice albo baze danych z różnymi hasłami i przy rozpoczęciu gry hasło jest losowane
+DONE 
+
+Przy wylosowaniu hasła niech wyświetla się kategoria z jakiej jest
+
+Dodaj ładne animacje czy coś
+
+Dodatkowy dźwięk umierania przy przegranej
+
+Dodatkowe podpowiedzi do hasła np 2 na gre
+
+Czy juz znasz haslo? i na dole mozesz wpisac
